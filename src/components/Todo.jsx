@@ -1,9 +1,13 @@
-import React from 'react'
+import React, { useState } from "react";
 
 const Todo = () => {
-  return (
-    <div>Todo</div>
-  )
-}
+  const [edit, setEdit] = useState({
+    id: null,
+    value: "",
+  });
+  return todos.map((todo, index) =>{
+    <div className={todo.isComplete ? 'todo-row complete' : 'todo-row'}></div>
+  })
+};
 
-export default Todo
+export default Todo;
