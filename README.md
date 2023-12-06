@@ -4,3 +4,8 @@ The other will involve using a database.
 
 This tutorial is by Brian Design and can be found here:
 https://www.youtube.com/watch?v=E1E08i2UJGI
+
+updated:
+I really liked this tutorial especially compared to the previous one it felt way more simple and straight forward but not as complex. This guys presentation was a lot more streamlined and not choppy with errors.
+
+for my project I like this guys approach but in order to best accomplish what I'm setting out to do I think I am going to take a little of this one and the cards from the ninja coder db tutorial.
